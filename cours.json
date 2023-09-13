@@ -1,0 +1,32 @@
+[
+   {
+      "id": 1,
+      "coursename": "Python3",
+      "coursprice": 12345,
+      "people": []
+   },
+   {
+      "id": 2,
+      "coursename": "C#",
+      "coursprice": 1111111,
+      "people": []
+   },
+   {
+      "id": 3,
+      "coursename": "C++",
+      "coursprice": 1234,
+      "people": []
+   },
+   {
+      "id": 4,
+      "coursename": "flatter",
+      "coursprice": 230000,
+      "people": []
+   },
+   {
+      "id": 5,
+      "coursename": "wef",
+      "coursprice": 23,
+      "people": []
+   }
+]
